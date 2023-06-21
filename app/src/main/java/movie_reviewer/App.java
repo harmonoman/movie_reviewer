@@ -5,7 +5,7 @@ package movie_reviewer;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Hello There!";
     }
 
     public static void main(String[] args) {
